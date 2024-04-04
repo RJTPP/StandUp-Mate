@@ -6,7 +6,7 @@
 
 - **Presence Detection**: Utilizes an ultrasonic sensor to detect when a user is at their desk.
 - **Timed Reminders**: Encourages regular standing breaks by displaying messages on the OLED screen and flashing an LED light.
-- **Stand-Alone Operation**: Operates independently without the need for internet connectivity or external data processing.
+- **Standalone Operation**: Operates independently without the need for internet connectivity or external data processing.
 
 ## Hardware Components
 
