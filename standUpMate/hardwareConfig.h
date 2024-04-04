@@ -1,0 +1,14 @@
+#define SCREEN_WIDTH 128
+#define SCREEN_HEIGHT 64
+#define REFRESH_DELAY 16
+
+#define OLED_SCL_PIN 47
+#define OLED_SDA_PIN 48
+
+#define US_ECHO_PIN 4
+#define US_TRIGGER_PIN 5
+
+#define LED_RED_PIN 42
+#define LED_YELLOW_PIN 41
+#define LED_GREEN_PIN 40
+#define SWITCH_PIN 2
